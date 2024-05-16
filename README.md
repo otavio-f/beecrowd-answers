@@ -7,7 +7,7 @@ Beecrowd C99 uses the following `gcc` flags
 
 `-std=c99 -O2 -lm`
 
-All solutions were tested locally using the following flags:
+In addition, all solutions were tested locally using the following flags:
 
 `-Wall -Werror -std=c99 -O2 -lm`
 
