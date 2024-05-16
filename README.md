@@ -1,7 +1,11 @@
 # beecrowd-answers
 Answers to Beecrowd's (former URI) problems
 
-All solved using the following flags:
+Beecrowd C99 uses the following `gcc` flags
+
+`-std=c99 -O2 -lm`
+
+All solutions were tested locally using the following flags:
 
 `-Wall -Werror -std=c99 -O2 -lm`
 
