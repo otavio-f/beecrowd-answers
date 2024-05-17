@@ -89,6 +89,7 @@ Problems solved
 | PUM | [1142.c](src/C/1142.c) | [1142 - PUM](https://judge.beecrowd.com/en/problems/view/1142)
 | Squared and Cubic | [1143.c](src/C/1143.c) | [1143 - Squared and Cubic](https://judge.beecrowd.com/en/problems/view/1143)
 | Logical Sequence | [1144.c](src/C/1144.c) | [1144 - Logical Sequence](https://judge.beecrowd.com/en/problems/view/1144)
+| Ages | [1154.c](src/C/1154.c) | [1154 - Ages](https://judge.beecrowd.com/en/problems/view/1154)
 | Population Increase | [1160.c](src/C/1160.c) | [1160 - Population Increase](https://judge.beecrowd.com/en/problems/view/1160)
 | Perfect Number | [1164.c](src/C/1164.c) | [1164 - Perfect Number](https://judge.beecrowd.com/en/problems/view/1164)
 | Hanoi Tower Troubles Again! | [1166.c](src/C/1166.c) | [1166 - Hanoi Tower Troubles Again!](https://judge.beecrowd.com/en/problems/view/1166)
