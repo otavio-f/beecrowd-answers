@@ -105,7 +105,7 @@ Problems solved
 | ~~Square Matrix II~~ | ~~[1478.c](src/C/1478.c)~~ | ~~[1478 - Square Matrix II](https://judge.beecrowd.com/en/problems/view/1478)~~ |
 | ~~Array 123~~ | ~~[1534.c](src/C/1534.c)~~ | ~~[1534 - Array 123](https://judge.beecrowd.com/en/problems/view/1534)~~ |
 | ~~Sum of Two Squares~~ | ~~[1558.c](src/C/1558.c)~~ | ~~[1558 - Sum of Two Squares](https://judge.beecrowd.com/en/problems/view/1558)~~ |
-| ~~Matrix of Squares~~ | ~~[1578.c](src/C/1578.c)~~ | ~~[1578 - Matrix of Squares](https://judge.beecrowd.com/en/problems/view/1578)~~ |
+| Matrix of Squares | [1578.c](src/C/1578.c) | [1578 - Matrix of Squares](https://judge.beecrowd.com/en/problems/view/1578) |
 | ~~Mondriaan's Dream~~ | ~~[1720.c](src/C/1720.c)~~ | ~~[1720 - Mondriaan's Dream](https://judge.beecrowd.com/en/problems/view/1720)~~ |
 | ~~Pipe Cutting~~ | ~~[1798.c](src/C/1798.c)~~ | ~~[1798 - Pipe Cutting](https://judge.beecrowd.com/en/problems/view/1798)~~ |
 | ~~Square Array IV~~ | ~~[1827.c](src/C/1827.c)~~ | ~~[1827 - Square Array IV](https://judge.beecrowd.com/en/problems/view/1827)~~ |
