@@ -60,6 +60,7 @@ Problems solved
 | Even Between five Numbers | [1065.c](src/C/1065.c) | [1065 - Even Between five Numbers](https://judge.beecrowd.com/en/problems/view/1065) |
 | Even, Odd, Positive and Negative | [1066.c](src/C/1066.c) | [1066 - Even, Odd, Positive and Negative](https://judge.beecrowd.com/en/problems/view/1066) |
 | Odd Numbers | [1067.c](src/C/1067.c) | [1067 - Odd Numbers](https://judge.beecrowd.com/en/problems/view/1067) |
+| Diamonds and Sand | [1069.c](src/C/1069.c) | [1069 - Diamonds and Sand](https://judge.beecrowd.com/en/problems/view/1069) |
 | ~~Six Odd Numbers~~ | ~~[1070.c](src/C/1070.c)~~ | ~~[1070 - Six Odd Numbers](https://judge.beecrowd.com/en/problems/view/1070)~~ |
 | ~~Sum of Consecutive Odd Numbers I~~ | ~~[1071.c](src/C/1071.c)~~ | ~~[1071 - Sum of Consecutive Odd Numbers I](https://judge.beecrowd.com/en/problems/view/1071)~~ |
 | ~~Interval 2~~ | ~~[1072.c](src/C/1072.c)~~ | ~~[1072 - Interval 2](https://judge.beecrowd.com/en/problems/view/1072)~~ |
