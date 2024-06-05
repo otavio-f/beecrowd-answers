@@ -99,6 +99,7 @@ Problems solved
 | ~~Line in Array~~ | ~~[1181.c](src/C/1181.c)~~ | ~~[1181 - Line in Array](https://judge.beecrowd.com/en/problems/view/1181)~~ |
 | ~~Column in Array~~ | ~~[1182.c](src/C/1182.c)~~ | ~~[1182 - Column in Array](https://judge.beecrowd.com/en/problems/view/1182)~~ |
 | ~~Above the Main Diagonal~~ | ~~[1183.c](src/C/1183.c)~~ | ~~[1183 - Above the Main Diagonal](https://judge.beecrowd.com/en/problems/view/1183)~~ |
+| I Can Guess the Data Structure! | [1340.c](src/C/1340.c) | [1340 - I Can Guess the Data Structure!](https://judge.beecrowd.com/en/problems/view/1340)
 | Sudoku | [1383.c](src/C/1383.c) | [1383 - Sudoku](https://judge.beecrowd.com/en/problems/view/1383) |
 | ~~Patches~~ | ~~[1475.c](src/C/1475.c)~~ | ~~[1475 - Patches](https://judge.beecrowd.com/en/problems/view/1475)~~ |
 | ~~Square Matrix II~~ | ~~[1478.c](src/C/1478.c)~~ | ~~[1478 - Square Matrix II](https://judge.beecrowd.com/en/problems/view/1478)~~ |
