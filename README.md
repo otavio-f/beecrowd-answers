@@ -110,7 +110,7 @@ Problems solved
 | Matrix of Squares | [1578.c](src/C/1578.c) | [1578 - Matrix of Squares](https://judge.beecrowd.com/en/problems/view/1578) |
 | ~~Mondriaan's Dream~~ | ~~[1720.c](src/C/1720.c)~~ | ~~[1720 - Mondriaan's Dream](https://judge.beecrowd.com/en/problems/view/1720)~~ |
 | ~~Pipe Cutting~~ | ~~[1798.c](src/C/1798.c)~~ | ~~[1798 - Pipe Cutting](https://judge.beecrowd.com/en/problems/view/1798)~~ |
-| ~~Square Array IV~~ | ~~[1827.c](src/C/1827.c)~~ | ~~[1827 - Square Array IV](https://judge.beecrowd.com/en/problems/view/1827)~~ |
+| Square Array IV | [1827.c](src/C/1827.c) | [1827 - Square Array IV](https://judge.beecrowd.com/en/problems/view/1827) |
 | ~~The Pronalância Puzzle~~ | ~~[1984.c](src/C/1984.c)~~ | ~~[1984 - The Pronalância Puzzle](https://judge.beecrowd.com/en/problems/view/1984)~~ |
 | ~~Sequence of Sequence~~ | ~~[2028.c](src/C/2028.c)~~ | ~~[2028 - Sequence of Sequence](https://judge.beecrowd.com/en/problems/view/2028)~~ |
 | ~~Pedrinho's Christmas~~ | ~~[2139.c](src/C/2139.c)~~ | ~~[2139 - Pedrinho's Christmas](https://judge.beecrowd.com/en/problems/view/2139)~~ |
