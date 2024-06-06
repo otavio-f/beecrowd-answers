@@ -94,7 +94,7 @@ Problems solved
 | Ages | [1154.c](src/C/1154.c) | [1154 - Ages](https://judge.beecrowd.com/en/problems/view/1154) |
 | ~~Population Increase~~ | ~~[1160.c](src/C/1160.c)~~ | ~~[1160 - Population Increase](https://judge.beecrowd.com/en/problems/view/1160)~~ |
 | ~~Perfect Number~~ | ~~[1164.c](src/C/1164.c)~~ | ~~[1164 - Perfect Number](https://judge.beecrowd.com/en/problems/view/1164)~~ |
-| ~~Hanoi Tower Troubles Again!~~ | ~~[1166.c](src/C/1166.c)~~ | ~~[1166 - Hanoi Tower Troubles Again!](https://judge.beecrowd.com/en/problems/view/1166)~~ |
+| ~~Hanoi Tower Troubles Again!~~ | ~~[Issue](https://github.com/otavio-f/beecrowd-answers/issues/2)~~ | ~~[1166 - Hanoi Tower Troubles Again!](https://judge.beecrowd.com/en/problems/view/1166)~~ |
 | ~~Array Selection I~~ | ~~[1174.c](src/C/1174.c)~~ | ~~[1174 - Array Selection I](https://judge.beecrowd.com/en/problems/view/1174)~~ |
 | ~~Array Change I~~ | ~~[1175.c](src/C/1175.c)~~ | ~~[1175 - Array Change I](https://judge.beecrowd.com/en/problems/view/1175)~~ |
 | ~~Fibonacci Array~~ | ~~[1176.c](src/C/1176.c)~~ | ~~[1176 - Fibonacci Array](https://judge.beecrowd.com/en/problems/view/1176)~~ |
@@ -103,21 +103,23 @@ Problems solved
 | ~~Above the Main Diagonal~~ | ~~[1183.c](src/C/1183.c)~~ | ~~[1183 - Above the Main Diagonal](https://judge.beecrowd.com/en/problems/view/1183)~~ |
 | I Can Guess the Data Structure! | [1340.c](src/C/1340.c) | [1340 - I Can Guess the Data Structure!](https://judge.beecrowd.com/en/problems/view/1340)
 | Sudoku | [1383.c](src/C/1383.c) | [1383 - Sudoku](https://judge.beecrowd.com/en/problems/view/1383) |
-| ~~Patches~~ | ~~[1475.c](src/C/1475.c)~~ | ~~[1475 - Patches](https://judge.beecrowd.com/en/problems/view/1475)~~ |
+| ~~Patches~~ | ~~[Issue](https://github.com/otavio-f/beecrowd-answers/issues/2)~~ | ~~[1475 - Patches](https://judge.beecrowd.com/en/problems/view/1475)~~ |
 | ~~Square Matrix II~~ | ~~[1478.c](src/C/1478.c)~~ | ~~[1478 - Square Matrix II](https://judge.beecrowd.com/en/problems/view/1478)~~ |
 | ~~Array 123~~ | ~~[1534.c](src/C/1534.c)~~ | ~~[1534 - Array 123](https://judge.beecrowd.com/en/problems/view/1534)~~ |
 | ~~Sum of Two Squares~~ | ~~[1558.c](src/C/1558.c)~~ | ~~[1558 - Sum of Two Squares](https://judge.beecrowd.com/en/problems/view/1558)~~ |
 | Matrix of Squares | [1578.c](src/C/1578.c) | [1578 - Matrix of Squares](https://judge.beecrowd.com/en/problems/view/1578) |
-| ~~Mondriaan's Dream~~ | ~~[1720.c](src/C/1720.c)~~ | ~~[1720 - Mondriaan's Dream](https://judge.beecrowd.com/en/problems/view/1720)~~ |
-| ~~Pipe Cutting~~ | ~~[1798.c](src/C/1798.c)~~ | ~~[1798 - Pipe Cutting](https://judge.beecrowd.com/en/problems/view/1798)~~ |
+| ~~Mondriaan's Dream~~ | ~~[Issue](https://github.com/otavio-f/beecrowd-answers/issues/2)~~ | ~~[1720 - Mondriaan's Dream](https://judge.beecrowd.com/en/problems/view/1720)~~ |
+| ~~Pipe Cutting~~ | ~~[Issue](https://github.com/otavio-f/beecrowd-answers/issues/2)~~ | ~~[1798 - Pipe Cutting](https://judge.beecrowd.com/en/problems/view/1798)~~ |
 | Square Array IV | [1827.c](src/C/1827.c) | [1827 - Square Array IV](https://judge.beecrowd.com/en/problems/view/1827) |
+| ~~The Final Frontier~~ | ~~[Issue](https://github.com/otavio-f/beecrowd-answers/issues/2)~~ | ~~[1967 - The Final Frontier](https://judge.beecrowd.com/en/problems/view/1967)~~ |
 | ~~The Pronalância Puzzle~~ | ~~[1984.c](src/C/1984.c)~~ | ~~[1984 - The Pronalância Puzzle](https://judge.beecrowd.com/en/problems/view/1984)~~ |
 | ~~Sequence of Sequence~~ | ~~[2028.c](src/C/2028.c)~~ | ~~[2028 - Sequence of Sequence](https://judge.beecrowd.com/en/problems/view/2028)~~ |
 | ~~Pedrinho's Christmas~~ | ~~[2139.c](src/C/2139.c)~~ | ~~[2139 - Pedrinho's Christmas](https://judge.beecrowd.com/en/problems/view/2139)~~ |
-| ~~Matrix Ladder~~ | ~~[2450.c](src/C/2450.c)~~ | ~~[2450 - Matrix Ladder](https://judge.beecrowd.com/en/problems/view/2450)~~ |
+| ~~Matrix Ladder~~ | ~~[Issue](https://github.com/otavio-f/beecrowd-answers/issues/2)~~ | ~~[2450 - Matrix Ladder](https://judge.beecrowd.com/en/problems/view/2450)~~ |
 | ~~Shopping List~~ | ~~[2729.c](src/C/2729.c)~~ | ~~[2729 - Shopping List](https://judge.beecrowd.com/en/problems/view/2729)~~ |
 | ~~School Floor~~ | ~~[2786.c](src/C/2786.c)~~ | ~~[2786 - School Floor](https://judge.beecrowd.com/en/problems/view/2786)~~ |
 | ~~Chess~~ | ~~[2787.c](src/C/2787.c)~~ | ~~[2787 - Chess](https://judge.beecrowd.com/en/problems/view/2787)~~ |
+| ~~Binarizing the Matrix~~ | ~~[Issue](https://github.com/otavio-f/beecrowd-answers/issues/2)~~ | ~~[2805 - Binarizing the Matrix](https://judge.beecrowd.com/en/problems/view/2786)~~ |
 | ~~Rangel and the Array Game I~~ | ~~[2848.c](src/C/2848.c)~~ | ~~[2848 - Rangel and the Array Game I](https://judge.beecrowd.com/en/problems/view/2848)~~ |
 | Small Unlucky Numbers | [3299.c](src/C/3299.c) | [3299 - Small Unlucky Numbers](https://judge.beecrowd.com/en/problems/view/3299) |
 | ~~Middle Nephew~~ | ~~[3301.c](src/C/3301.c)~~ | ~~[3301 - Middle Nephew](https://judge.beecrowd.com/en/problems/view/3301)~~ |
