@@ -119,7 +119,7 @@ Problems solved
 | ~~School Floor~~ | ~~[2786.c](src/C/2786.c)~~ | ~~[2786 - School Floor](https://judge.beecrowd.com/en/problems/view/2786)~~ |
 | ~~Chess~~ | ~~[2787.c](src/C/2787.c)~~ | ~~[2787 - Chess](https://judge.beecrowd.com/en/problems/view/2787)~~ |
 | ~~Rangel and the Array Game I~~ | ~~[2848.c](src/C/2848.c)~~ | ~~[2848 - Rangel and the Array Game I](https://judge.beecrowd.com/en/problems/view/2848)~~ |
-| ~~Small Unlucky Numbers~~ | ~~[3299.c](src/C/3299.c)~~ | ~~[3299 - Small Unlucky Numbers](https://judge.beecrowd.com/en/problems/view/3299)~~ |
+| Small Unlucky Numbers | [3299.c](src/C/3299.c) | [3299 - Small Unlucky Numbers](https://judge.beecrowd.com/en/problems/view/3299) |
 | ~~Middle Nephew~~ | ~~[3301.c](src/C/3301.c)~~ | ~~[3301 - Middle Nephew](https://judge.beecrowd.com/en/problems/view/3301)~~ |
 | ~~Correct Answer~~ | ~~[3302.c](src/C/3302.c)~~ | ~~[3302 - Correct Answer](https://judge.beecrowd.com/en/problems/view/3302)~~ |
 | ~~Big Word~~ | ~~[3303.c](src/C/3303.c)~~ | ~~[3303 - Big Word](https://judge.beecrowd.com/en/problems/view/3303)~~ |
