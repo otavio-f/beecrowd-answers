@@ -122,7 +122,7 @@ Problems solved
 | Small Unlucky Numbers | [3299.c](src/C/3299.c) | [3299 - Small Unlucky Numbers](https://judge.beecrowd.com/en/problems/view/3299) |
 | ~~Middle Nephew~~ | ~~[3301.c](src/C/3301.c)~~ | ~~[3301 - Middle Nephew](https://judge.beecrowd.com/en/problems/view/3301)~~ |
 | ~~Correct Answer~~ | ~~[3302.c](src/C/3302.c)~~ | ~~[3302 - Correct Answer](https://judge.beecrowd.com/en/problems/view/3302)~~ |
-| ~~Big Word~~ | ~~[3303.c](src/C/3303.c)~~ | ~~[3303 - Big Word](https://judge.beecrowd.com/en/problems/view/3303)~~ |
+| Big Word | [3303.c](src/C/3303.c) | [3303 - Big Word](https://judge.beecrowd.com/en/problems/view/3303) |
 | ~~Keanu~~ | ~~[3342.c](src/C/3342.c)~~ | ~~[3342 - Keanu](https://judge.beecrowd.com/en/problems/view/3342)~~ |
 | ~~Brute~~ | ~~[3344.c](src/C/3344.c)~~ | ~~[3344 - Brute](https://judge.beecrowd.com/en/problems/view/3344)~~ |
 
