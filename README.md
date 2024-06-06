@@ -117,7 +117,7 @@ Problems solved
 | ~~Pedrinho's Christmas~~ | ~~[2139.c](src/C/2139.c)~~ | ~~[2139 - Pedrinho's Christmas](https://judge.beecrowd.com/en/problems/view/2139)~~ |
 | ~~Matrix Ladder~~ | ~~[Issue](https://github.com/otavio-f/beecrowd-answers/issues/2)~~ | ~~[2450 - Matrix Ladder](https://judge.beecrowd.com/en/problems/view/2450)~~ |
 | ~~Shopping List~~ | ~~[2729.c](src/C/2729.c)~~ | ~~[2729 - Shopping List](https://judge.beecrowd.com/en/problems/view/2729)~~ |
-| ~~School Floor~~ | ~~[2786.c](src/C/2786.c)~~ | ~~[2786 - School Floor](https://judge.beecrowd.com/en/problems/view/2786)~~ |
+| ~~School Floor~~ | ~~[Issue](https://github.com/otavio-f/beecrowd-answers/issues/2)~~ | ~~[2786 - School Floor](https://judge.beecrowd.com/en/problems/view/2786)~~ |
 | ~~Chess~~ | ~~[2787.c](src/C/2787.c)~~ | ~~[2787 - Chess](https://judge.beecrowd.com/en/problems/view/2787)~~ |
 | ~~Binarizing the Matrix~~ | ~~[Issue](https://github.com/otavio-f/beecrowd-answers/issues/2)~~ | ~~[2805 - Binarizing the Matrix](https://judge.beecrowd.com/en/problems/view/2786)~~ |
 | ~~Rangel and the Array Game I~~ | ~~[Issue](https://github.com/otavio-f/beecrowd-answers/issues/2)~~ | ~~[2848 - Rangel and the Array Game I](https://judge.beecrowd.com/en/problems/view/2848)~~ |
