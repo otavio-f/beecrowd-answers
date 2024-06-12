@@ -115,6 +115,7 @@ Problems solved
 | ~~The Final Frontier~~ | ~~[Issue](https://github.com/otavio-f/beecrowd-answers/issues/2)~~ | ~~[1967 - The Final Frontier](https://judge.beecrowd.com/en/problems/view/1967)~~ |
 | ~~The Pronalância Puzzle~~ | ~~[1984.c](src/C/1984.c)~~ | ~~[1984 - The Pronalância Puzzle](https://judge.beecrowd.com/en/problems/view/1984)~~ |
 | ~~Sequence of Sequence~~ | ~~[2028.c](src/C/2028.c)~~ | ~~[2028 - Sequence of Sequence](https://judge.beecrowd.com/en/problems/view/2028)~~ |
+| ~~Supermarket Line~~ | ~~[Issue](https://github.com/otavio-f/beecrowd-answers/issues/2)~~ | ~~[2065 - Supermarket Line](https://judge.beecrowd.com/en/problems/view/2065)~~ |
 | ~~Pedrinho's Christmas~~ | ~~[2139.c](src/C/2139.c)~~ | ~~[2139 - Pedrinho's Christmas](https://judge.beecrowd.com/en/problems/view/2139)~~ |
 | ~~Matrix Ladder~~ | ~~[Issue](https://github.com/otavio-f/beecrowd-answers/issues/2)~~ | ~~[2450 - Matrix Ladder](https://judge.beecrowd.com/en/problems/view/2450)~~ |
 | ~~Shopping List~~ | ~~[2729.c](src/C/2729.c)~~ | ~~[2729 - Shopping List](https://judge.beecrowd.com/en/problems/view/2729)~~ |
