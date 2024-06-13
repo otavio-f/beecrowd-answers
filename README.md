@@ -123,6 +123,7 @@ Problems solved
 | ~~Chess~~ | ~~[2787.c](src/C/2787.c)~~ | ~~[2787 - Chess](https://judge.beecrowd.com/en/problems/view/2787)~~ |
 | ~~Binarizing the Matrix~~ | ~~[Issue](https://github.com/otavio-f/beecrowd-answers/issues/2)~~ | ~~[2805 - Binarizing the Matrix](https://judge.beecrowd.com/en/problems/view/2786)~~ |
 | ~~Rangel and the Array Game I~~ | ~~[Issue](https://github.com/otavio-f/beecrowd-answers/issues/2)~~ | ~~[2848 - Rangel and the Array Game I](https://judge.beecrowd.com/en/problems/view/2848)~~ |
+| ~~Seeking New Followers~~ | ~~[Issue](https://github.com/otavio-f/beecrowd-answers/issues/2)~~ | ~~[3139 - Seeking New Followers](https://judge.beecrowd.com/en/problems/view/3139)~~ |
 | Small Unlucky Numbers | [3299.c](src/C/3299.c) | [3299 - Small Unlucky Numbers](https://judge.beecrowd.com/en/problems/view/3299) |
 | Recharged Unlucky Numbers | [3300.c](src/C/3300.c) | [3300 - Recharged Unlucky Numbers](https://judge.beecrowd.com/en/problems/view/3300) |
 | Middle Nephew | [3301.c](src/C/3301.c) | [3301 - Middle Nephew](https://judge.beecrowd.com/en/problems/view/3301) |
