@@ -119,6 +119,7 @@ Problems solved
 | ~~Supermarket Line~~ | ~~[Issue](https://github.com/otavio-f/beecrowd-answers/issues/2)~~ | ~~[2065 - Supermarket Line](https://judge.beecrowd.com/en/problems/view/2065)~~ |
 | ~~Pedrinho's Christmas~~ | ~~[2139.c](src/C/2139.c)~~ | ~~[2139 - Pedrinho's Christmas](https://judge.beecrowd.com/en/problems/view/2139)~~ |
 | ~~Matrix Ladder~~ | ~~[Issue](https://github.com/otavio-f/beecrowd-answers/issues/2)~~ | ~~[2450 - Matrix Ladder](https://judge.beecrowd.com/en/problems/view/2450)~~ |
+| ~~Enigma~~ | ~~[Issue](https://github.com/otavio-f/beecrowd-answers/issues/2)~~ | ~~[2699 - Enigma](https://judge.beecrowd.com/en/problems/view/2699)~~ |
 | ~~Shopping List~~ | ~~[2729.c](src/C/2729.c)~~ | ~~[2729 - Shopping List](https://judge.beecrowd.com/en/problems/view/2729)~~ |
 | ~~School Floor~~ | ~~[Issue](https://github.com/otavio-f/beecrowd-answers/issues/2)~~ | ~~[2786 - School Floor](https://judge.beecrowd.com/en/problems/view/2786)~~ |
 | ~~Chess~~ | ~~[2787.c](src/C/2787.c)~~ | ~~[2787 - Chess](https://judge.beecrowd.com/en/problems/view/2787)~~ |
