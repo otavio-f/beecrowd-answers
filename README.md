@@ -36,6 +36,7 @@ Problems solved
 | Time Conversion | [1019.c](src/C/1019.c) | [1019 - Time Conversion](https://judge.beecrowd.com/en/problems/view/1019) |
 | Age in Days | [1020.c](src/C/1020.c) | [1020 - Age in Days](https://judge.beecrowd.com/en/problems/view/1020) |
 | Banknotes and Coins | [1021.c](src/C/1021.c) | [1021 - Banknotes and Coins](https://judge.beecrowd.com/en/problems/view/1021) |
+| ~~Joseph's Cousin~~ | ~~[Issue](https://github.com/otavio-f/beecrowd-answers/issues/2)~~ | ~~[1032 - Joseph's Cousin](https://judge.beecrowd.com/en/problems/view/1032)~~ |
 | Selection Test 1 | [1035.c](src/C/1035.c) | [1035 - Selection Test 1](https://judge.beecrowd.com/en/problems/view/1035) |
 | Bhaskara's Formula | [1036.c](src/C/1036.c) | [1036 - Bhaskara's Formula](https://judge.beecrowd.com/en/problems/view/1036) |
 | Interval | [1037.c](src/C/1037.c) | [1037 - Interval](https://judge.beecrowd.com/en/problems/view/1037) |
