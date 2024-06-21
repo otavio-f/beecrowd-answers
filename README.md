@@ -113,6 +113,7 @@ Problems solved
 | ~~Mondriaan's Dream~~ | ~~[Issue](https://github.com/otavio-f/beecrowd-answers/issues/2)~~ | ~~[1720 - Mondriaan's Dream](https://judge.beecrowd.com/en/problems/view/1720)~~ |
 | ~~Pipe Cutting~~ | ~~[Issue](https://github.com/otavio-f/beecrowd-answers/issues/2)~~ | ~~[1798 - Pipe Cutting](https://judge.beecrowd.com/en/problems/view/1798)~~ |
 | Square Array IV | [1827.c](src/C/1827.c) | [1827 - Square Array IV](https://judge.beecrowd.com/en/problems/view/1827) |
+| Renzo and the Palindromic Decoration | [1880.c](src/C/1880.c) | [1880 - Renzo and the Palindromic Decoration](https://judge.beecrowd.com/en/problems/view/1880) |
 | ~~The Final Frontier~~ | ~~[Issue](https://github.com/otavio-f/beecrowd-answers/issues/2)~~ | ~~[1967 - The Final Frontier](https://judge.beecrowd.com/en/problems/view/1967)~~ |
 | ~~The Pronalância Puzzle~~ | ~~[1984.c](src/C/1984.c)~~ | ~~[1984 - The Pronalância Puzzle](https://judge.beecrowd.com/en/problems/view/1984)~~ |
 | ~~Sequence of Sequence~~ | ~~[2028.c](src/C/2028.c)~~ | ~~[2028 - Sequence of Sequence](https://judge.beecrowd.com/en/problems/view/2028)~~ |
