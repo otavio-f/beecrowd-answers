@@ -63,16 +63,16 @@ Problems solved
 | Odd Numbers | [1067.c](src/C/1067.c) | [1067 - Odd Numbers](https://judge.beecrowd.com/en/problems/view/1067) |
 | Parenthesis Balance I | [1068.c](src/C/1068.c) | [1068 - Parenthesis Balance I](https://judge.beecrowd.com/en/problems/view/1068)
 | Diamonds and Sand | [1069.c](src/C/1069.c) | [1069 - Diamonds and Sand](https://judge.beecrowd.com/en/problems/view/1069) |
-| ~~Six Odd Numbers~~ | ~~[1070.c](src/C/1070.c)~~ | ~~[1070 - Six Odd Numbers](https://judge.beecrowd.com/en/problems/view/1070)~~ |
-| ~~Sum of Consecutive Odd Numbers I~~ | ~~[1071.c](src/C/1071.c)~~ | ~~[1071 - Sum of Consecutive Odd Numbers I](https://judge.beecrowd.com/en/problems/view/1071)~~ |
-| ~~Interval 2~~ | ~~[1072.c](src/C/1072.c)~~ | ~~[1072 - Interval 2](https://judge.beecrowd.com/en/problems/view/1072)~~ |
-| ~~Even Square~~ | ~~[1073.c](src/C/1073.c)~~ | ~~[1073 - Even Square](https://judge.beecrowd.com/en/problems/view/1073)~~ |
-| ~~Even or Odd~~ | ~~[1074.c](src/C/1074.c)~~ | ~~[1074 - Even or Odd](https://judge.beecrowd.com/en/problems/view/1074)~~ |
-| ~~Remaining 2~~ | ~~[1075.c](src/C/1075.c)~~ | ~~[1075 - Remaining 2](https://judge.beecrowd.com/en/problems/view/1075)~~ |
-| ~~Multiplication Table~~ | ~~[1078.c](src/C/1078.c)~~ | ~~[1078 - Multiplication Table](https://judge.beecrowd.com/en/problems/view/1078)~~ |
-| ~~Weighted Averages~~ | ~~[1079.c](src/C/1079.c)~~ | ~~[1079 - Weighted Averages](https://judge.beecrowd.com/en/problems/view/1079)~~ |
-| ~~Highest and Position~~ | ~~[1080.c](src/C/1080.c)~~ | ~~[1080 - Highest and Position](https://judge.beecrowd.com/en/problems/view/1080)~~ |
-| ~~Experiments~~ | ~~[1094.c](src/C/1094.c)~~ | ~~[1094 - Experiments](https://judge.beecrowd.com/en/problems/view/1094)~~ |
+| Six Odd Numbers | [1070.c](src/C/1070.c) | [1070 - Six Odd Numbers](https://judge.beecrowd.com/en/problems/view/1070) |
+| Sum of Consecutive Odd Numbers I | [1071.c](src/C/1071.c) | [1071 - Sum of Consecutive Odd Numbers I](https://judge.beecrowd.com/en/problems/view/1071) |
+| Interval 2 | [1072.c](src/C/1072.c) | [1072 - Interval 2](https://judge.beecrowd.com/en/problems/view/1072) |
+| Even Square | [1073.c](src/C/1073.c) | [1073 - Even Square](https://judge.beecrowd.com/en/problems/view/1073) |
+| Even or Odd | [1074.c](src/C/1074.c) | [1074 - Even or Odd](https://judge.beecrowd.com/en/problems/view/1074) |
+| Remaining 2 | [1075.c](src/C/1075.c) | [1075 - Remaining 2](https://judge.beecrowd.com/en/problems/view/1075) |
+| Multiplication Table | [1078.c](src/C/1078.c) | [1078 - Multiplication Table](https://judge.beecrowd.com/en/problems/view/1078) |
+| Weighted Averages | [1079.c](src/C/1079.c) | [1079 - Weighted Averages](https://judge.beecrowd.com/en/problems/view/1079) |
+| Highest and Position | [1080.c](src/C/1080.c) | [1080 - Highest and Position](https://judge.beecrowd.com/en/problems/view/1080) |
+| Experiments | [1094.c](src/C/1094.c) | [1094 - Experiments](https://judge.beecrowd.com/en/problems/view/1094) |
 | ~~Sequence IJ 1~~ | ~~[1095.c](src/C/1095.c)~~ | ~~[1095 - Sequence IJ 1](https://judge.beecrowd.com/en/problems/view/1095)~~ |
 | ~~Sequence IJ 2~~ | ~~[1096.c](src/C/1096.c)~~ | ~~[1096 - Sequence IJ 2](https://judge.beecrowd.com/en/problems/view/1096)~~ |
 | ~~Sequence IJ 3~~ | ~~[1097.c](src/C/1097.c)~~ | ~~[1097 - Sequence IJ 3](https://judge.beecrowd.com/en/problems/view/1097)~~ |
