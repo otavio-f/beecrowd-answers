@@ -73,10 +73,10 @@ Problems solved
 | Weighted Averages | [1079.c](src/C/1079.c) | [1079 - Weighted Averages](https://judge.beecrowd.com/en/problems/view/1079) |
 | Highest and Position | [1080.c](src/C/1080.c) | [1080 - Highest and Position](https://judge.beecrowd.com/en/problems/view/1080) |
 | Experiments | [1094.c](src/C/1094.c) | [1094 - Experiments](https://judge.beecrowd.com/en/problems/view/1094) |
-| ~~Sequence IJ 1~~ | ~~[1095.c](src/C/1095.c)~~ | ~~[1095 - Sequence IJ 1](https://judge.beecrowd.com/en/problems/view/1095)~~ |
-| ~~Sequence IJ 2~~ | ~~[1096.c](src/C/1096.c)~~ | ~~[1096 - Sequence IJ 2](https://judge.beecrowd.com/en/problems/view/1096)~~ |
-| ~~Sequence IJ 3~~ | ~~[1097.c](src/C/1097.c)~~ | ~~[1097 - Sequence IJ 3](https://judge.beecrowd.com/en/problems/view/1097)~~ |
-| ~~Sequence IJ 4~~ | ~~[1098.c](src/C/1098.c)~~ | ~~[1098 - Sequence IJ 4](https://judge.beecrowd.com/en/problems/view/1098)~~ |
+| Sequence IJ 1 | [1095.c](src/C/1095.c) | [1095 - Sequence IJ 1](https://judge.beecrowd.com/en/problems/view/1095) |
+| Sequence IJ 2 | [1096.c](src/C/1096.c) | [1096 - Sequence IJ 2](https://judge.beecrowd.com/en/problems/view/1096) |
+| Sequence IJ 3 | [1097.c](src/C/1097.c) | [1097 - Sequence IJ 3](https://judge.beecrowd.com/en/problems/view/1097) |
+| Sequence IJ 4 | [1098.c](src/C/1098.c) | [1098 - Sequence IJ 4](https://judge.beecrowd.com/en/problems/view/1098) |
 | ~~Sum of Consecutive Odd Numbers 2~~ | ~~[1099.c](src/C/1099.c)~~ | ~~[1099 - Sum of Consecutive Odd Numbers 2](https://judge.beecrowd.com/en/problems/view/1099)~~ |
 | ~~Sequence of Numbers and Sum~~ | ~~[1101.c](src/C/1101.c)~~ | ~~[1101 - Sequence of Numbers and Sum](https://judge.beecrowd.com/en/problems/view/1101)~~ |
 | Throwing Cards Away | [1110.c](src/C/1110.c) | [1110 - Throwing Cards Away](https://judge.beecrows.com/en/problems/view/1110) |
