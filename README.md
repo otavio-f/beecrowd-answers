@@ -86,13 +86,13 @@ Problems solved
 | [1116 - Dividing X by Y](https://judge.beecrowd.com/en/problems/view/1116) | [1116.c](src/C/1116.c) |
 | [1117 - Score Validation](https://judge.beecrowd.com/en/problems/view/1117) | [1117.c](src/C/1117.c) |
 | [1118 - Several Scores with Validation](https://judge.beecrowd.com/en/problems/view/1118) | [1118.c](src/C/1118.c) |
-| ~~[1131 - Grenais](https://judge.beecrowd.com/en/problems/view/1131)~~ | ~~[1131.c](src/C/1131.c)~~ |
-| ~~[1132 - Multiples of 13](https://judge.beecrowd.com/en/problems/view/1132)~~ | ~~[1132.c](src/C/1132.c)~~ |
-| ~~[1133 - Rest of a Division](https://judge.beecrowd.com/en/problems/view/1133)~~ | ~~[1133.c](src/C/1133.c)~~ |
-| ~~[1134 - Type of Fuel](https://judge.beecrowd.com/en/problems/view/1134)~~ | ~~[1134.c](src/C/1134.c)~~ |
-| ~~[1142 - PUM](https://judge.beecrowd.com/en/problems/view/1142)~~ | ~~[1142.c](src/C/1142.c)~~ |
-| ~~[1143 - Squared and Cubic](https://judge.beecrowd.com/en/problems/view/1143)~~ | ~~[1143.c](src/C/1143.c)~~ |
-| ~~[1144 - Logical Sequence](https://judge.beecrowd.com/en/problems/view/1144)~~ | ~~[1144.c](src/C/1144.c)~~ |
+| [1131 - Grenais](https://judge.beecrowd.com/en/problems/view/1131) | [1131.c](src/C/1131.c) |
+| [1132 - Multiples of 13](https://judge.beecrowd.com/en/problems/view/1132) | [1132.c](src/C/1132.c) |
+| [1133 - Rest of a Division](https://judge.beecrowd.com/en/problems/view/1133) | [1133.c](src/C/1133.c) |
+| [1134 - Type of Fuel](https://judge.beecrowd.com/en/problems/view/1134) | [1134.c](src/C/1134.c) |
+| [1142 - PUM](https://judge.beecrowd.com/en/problems/view/1142) | [1142.c](src/C/1142.c) |
+| [1143 - Squared and Cubic](https://judge.beecrowd.com/en/problems/view/1143) | [1143.c](src/C/1143.c) |
+| [1144 - Logical Sequence](https://judge.beecrowd.com/en/problems/view/1144) | [1144.c](src/C/1144.c) |
 | [1154 - Ages](https://judge.beecrowd.com/en/problems/view/1154) | [1154.c](src/C/1154.c) |
 | ~~[1160 - Population Increase](https://judge.beecrowd.com/en/problems/view/1160)~~ | ~~[1160.c](src/C/1160.c)~~ |
 | ~~[1164 - Perfect Number](https://judge.beecrowd.com/en/problems/view/1164)~~ | ~~[1164.c](src/C/1164.c)~~ |
