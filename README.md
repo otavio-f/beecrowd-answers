@@ -94,15 +94,15 @@ Problems solved
 | [1143 - Squared and Cubic](https://judge.beecrowd.com/en/problems/view/1143) | [1143.c](src/C/1143.c) |
 | [1144 - Logical Sequence](https://judge.beecrowd.com/en/problems/view/1144) | [1144.c](src/C/1144.c) |
 | [1154 - Ages](https://judge.beecrowd.com/en/problems/view/1154) | [1154.c](src/C/1154.c) |
-| ~~[1160 - Population Increase](https://judge.beecrowd.com/en/problems/view/1160)~~ | ~~[1160.c](src/C/1160.c)~~ |
-| ~~[1164 - Perfect Number](https://judge.beecrowd.com/en/problems/view/1164)~~ | ~~[1164.c](src/C/1164.c)~~ |
+| [1160 - Population Increase](https://judge.beecrowd.com/en/problems/view/1160) | [1160.c](src/C/1160.c) |
+| [1164 - Perfect Number](https://judge.beecrowd.com/en/problems/view/1164) | [1164.c](src/C/1164.c) |
 | [1166 - Hanoi Tower Troubles Again!](https://judge.beecrowd.com/en/problems/view/1166) | [Issue](https://github.com/otavio-f/beecrowd-answers/issues/2) |
-| ~~[1174 - Array Selection I](https://judge.beecrowd.com/en/problems/view/1174)~~ | ~~[1174.c](src/C/1174.c)~~ |
-| ~~[1175 - Array Change I](https://judge.beecrowd.com/en/problems/view/1175)~~ | ~~[1175.c](src/C/1175.c)~~ |
-| ~~[1176 - Fibonacci Array](https://judge.beecrowd.com/en/problems/view/1176)~~ | ~~[1176.c](src/C/1176.c)~~ |
-| ~~[1181 - Line in Array](https://judge.beecrowd.com/en/problems/view/1181)~~ | ~~[1181.c](src/C/1181.c)~~ |
-| ~~[1182 - Column in Array](https://judge.beecrowd.com/en/problems/view/1182)~~ | ~~[1182.c](src/C/1182.c)~~ |
-| ~~[1183 - Above the Main Diagonal](https://judge.beecrowd.com/en/problems/view/1183)~~ | ~~[1183.c](src/C/1183.c)~~ |
+| [1174 - Array Selection I](https://judge.beecrowd.com/en/problems/view/1174) | [1174.c](src/C/1174.c) |
+| [1175 - Array Change I](https://judge.beecrowd.com/en/problems/view/1175) | [1175.c](src/C/1175.c) |
+| [1176 - Fibonacci Array](https://judge.beecrowd.com/en/problems/view/1176) | [1176.c](src/C/1176.c) |
+| [1181 - Line in Array](https://judge.beecrowd.com/en/problems/view/1181) | [1181.c](src/C/1181.c) |
+| [1182 - Column in Array](https://judge.beecrowd.com/en/problems/view/1182) | [1182.c](src/C/1182.c) |
+| [1183 - Above the Main Diagonal](https://judge.beecrowd.com/en/problems/view/1183) | [1183.c](src/C/1183.c) |
 | [1221 - Fast Prime Number](https://judge.beecrowd.com/en/problems/view/1221) | [1221.c](src/C/1221.c) |
 | [1340 - I Can Guess the Data Structure!](https://judge.beecrowd.com/en/problems/view/1340) | [1340.c](src/C/1340.c) |
 | [1383 - Sudoku](https://judge.beecrowd.com/en/problems/view/1383) | [1383.c](src/C/1383.c) |
