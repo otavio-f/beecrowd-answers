@@ -102,8 +102,8 @@ Problems solved
 | ~~[1176 - Fibonacci Array](https://judge.beecrowd.com/en/problems/view/1176)~~ | ~~[1176.c](src/C/1176.c)~~ |
 | ~~[1181 - Line in Array](https://judge.beecrowd.com/en/problems/view/1181)~~ | ~~[1181.c](src/C/1181.c)~~ |
 | ~~[1182 - Column in Array](https://judge.beecrowd.com/en/problems/view/1182)~~ | ~~[1182.c](src/C/1182.c)~~ |
-| [1182 - Fast Prime Number](https://judge.beecrowd.com/en/problems/view/1221) | [1221.c](src/C/1221.c) |
 | ~~[1183 - Above the Main Diagonal](https://judge.beecrowd.com/en/problems/view/1183)~~ | ~~[1183.c](src/C/1183.c)~~ |
+| [1221 - Fast Prime Number](https://judge.beecrowd.com/en/problems/view/1221) | [1221.c](src/C/1221.c) |
 | [1340 - I Can Guess the Data Structure!](https://judge.beecrowd.com/en/problems/view/1340) | [1340.c](src/C/1340.c) |
 | [1383 - Sudoku](https://judge.beecrowd.com/en/problems/view/1383) | [1383.c](src/C/1383.c) |
 | [1475 - Patches](https://judge.beecrowd.com/en/problems/view/1475) | [Issue](https://github.com/otavio-f/beecrowd-answers/issues/2) |
