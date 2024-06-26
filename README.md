@@ -80,12 +80,12 @@ Problems solved
 | Sum of Consecutive Odd Numbers 2 | [1099.c](src/C/1099.c) | [1099 - Sum of Consecutive Odd Numbers 2](https://judge.beecrowd.com/en/problems/view/1099) |
 | Sequence of Numbers and Sum | [1101.c](src/C/1101.c) | [1101 - Sequence of Numbers and Sum](https://judge.beecrowd.com/en/problems/view/1101) |
 | Throwing Cards Away | [1110.c](src/C/1110.c) | [1110 - Throwing Cards Away](https://judge.beecrows.com/en/problems/view/1110) |
-| ~~Ascending and Descending~~ | ~~[1113.c](src/C/1113.c)~~ | ~~[1113 - Ascending and Descending](https://judge.beecrowd.com/en/problems/view/1113)~~ |
-| ~~Fixed Password~~ | ~~[1114.c](src/C/1114.c)~~ | ~~[1114 - Fixed Password](https://judge.beecrowd.com/en/problems/view/1114)~~ |
-| ~~Quadrant~~ | ~~[1115.c](src/C/1115.c)~~ | ~~[1115 - Quadrant](https://judge.beecrowd.com/en/problems/view/1115)~~ |
-| ~~Dividing X by Y~~ | ~~[1116.c](src/C/1116.c)~~ | ~~[1116 - Dividing X by Y](https://judge.beecrowd.com/en/problems/view/1116)~~ |
-| ~~Score Validation~~ | ~~[1117.c](src/C/1117.c)~~ | ~~[1117 - Score Validation](https://judge.beecrowd.com/en/problems/view/1117)~~ |
-| ~~Several Scores with Validation~~ | ~~[1118.c](src/C/1118.c)~~ | ~~[1118 - Several Scores with Validation](https://judge.beecrowd.com/en/problems/view/1118)~~ |
+| Ascending and Descending | [1113.c](src/C/1113.c) | [1113 - Ascending and Descending](https://judge.beecrowd.com/en/problems/view/1113) |
+| Fixed Password | [1114.c](src/C/1114.c) | [1114 - Fixed Password](https://judge.beecrowd.com/en/problems/view/1114) |
+| Quadrant | [1115.c](src/C/1115.c) | [1115 - Quadrant](https://judge.beecrowd.com/en/problems/view/1115) |
+| Dividing X by Y | [1116.c](src/C/1116.c) | [1116 - Dividing X by Y](https://judge.beecrowd.com/en/problems/view/1116) |
+| Score Validation | [1117.c](src/C/1117.c) | [1117 - Score Validation](https://judge.beecrowd.com/en/problems/view/1117) |
+| Several Scores with Validation | [1118.c](src/C/1118.c) | [1118 - Several Scores with Validation](https://judge.beecrowd.com/en/problems/view/1118) |
 | ~~Grenais~~ | ~~[1131.c](src/C/1131.c)~~ | ~~[1131 - Grenais](https://judge.beecrowd.com/en/problems/view/1131)~~ |
 | ~~Multiples of 13~~ | ~~[1132.c](src/C/1132.c)~~ | ~~[1132 - Multiples of 13](https://judge.beecrowd.com/en/problems/view/1132)~~ |
 | ~~Rest of a Division~~ | ~~[1133.c](src/C/1133.c)~~ | ~~[1133 - Rest of a Division](https://judge.beecrowd.com/en/problems/view/1133)~~ |
