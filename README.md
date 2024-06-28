@@ -1,6 +1,8 @@
 # beecrowd-answers
 Answers to Beecrowd's (former URI) problems
 
+` Solved Count: 109 `
+
 # C
 
 Beecrowd C99 uses the following `gcc` flags
