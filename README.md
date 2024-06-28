@@ -107,24 +107,24 @@ Problems solved
 | [1340 - I Can Guess the Data Structure!](https://judge.beecrowd.com/en/problems/view/1340) | [1340.c](src/C/1340.c) |
 | [1383 - Sudoku](https://judge.beecrowd.com/en/problems/view/1383) | [1383.c](src/C/1383.c) |
 | [1475 - Patches](https://judge.beecrowd.com/en/problems/view/1475) | [Issue](https://github.com/otavio-f/beecrowd-answers/issues/2) |
-| ~~[1478 - Square Matrix II](https://judge.beecrowd.com/en/problems/view/1478)~~ | ~~[1478.c](src/C/1478.c)~~ |
-| ~~[1534 - Array 123](https://judge.beecrowd.com/en/problems/view/1534)~~ | ~~[1534.c](src/C/1534.c)~~ |
-| ~~[1558 - Sum of Two Squares](https://judge.beecrowd.com/en/problems/view/1558)~~ | ~~[1558.c](src/C/1558.c)~~ |
+| [1478 - Square Matrix II](https://judge.beecrowd.com/en/problems/view/1478) | [1478.c](src/C/1478.c) |
+| [1534 - Array 123](https://judge.beecrowd.com/en/problems/view/1534) | [1534.c](src/C/1534.c) |
+| [1558 - Sum of Two Squares](https://judge.beecrowd.com/en/problems/view/1558) | [1558.c](src/C/1558.c) |
 | [1578 - Matrix of Squares](https://judge.beecrowd.com/en/problems/view/1578) | [1578.c](src/C/1578.c) |
 | [1720 - Mondriaan's Dream](https://judge.beecrowd.com/en/problems/view/1720) | [Issue](https://github.com/otavio-f/beecrowd-answers/issues/2) |
 | [1798 - Pipe Cutting](https://judge.beecrowd.com/en/problems/view/1798) | [Issue](https://github.com/otavio-f/beecrowd-answers/issues/2) |
 | [1827 - Square Array IV](https://judge.beecrowd.com/en/problems/view/1827) | [1827.c](src/C/1827.c) |
 | [1880 - Renzo and the Palindromic Decoration](https://judge.beecrowd.com/en/problems/view/1880) | [1880.c](src/C/1880.c) |
 | [1967 - The Final Frontier](https://judge.beecrowd.com/en/problems/view/1967) | [Issue](https://github.com/otavio-f/beecrowd-answers/issues/2) |
-| ~~[1984 - The Pronalância Puzzle](https://judge.beecrowd.com/en/problems/view/1984)~~ | ~~[1984.c](src/C/1984.c)~~ |
-| ~~[2028 - Sequence of Sequence](https://judge.beecrowd.com/en/problems/view/2028)~~ | ~~[2028.c](src/C/2028.c)~~ |
+| [1984 - The Pronalância Puzzle](https://judge.beecrowd.com/en/problems/view/1984) | [1984.c](src/C/1984.c) |
+| [2028 - Sequence of Sequence](https://judge.beecrowd.com/en/problems/view/2028) | [2028.c](src/C/2028.c) |
 | [2065 - Supermarket Line](https://judge.beecrowd.com/en/problems/view/2065) | [Issue](https://github.com/otavio-f/beecrowd-answers/issues/2) |
-| ~~[2139 - Pedrinho's Christmas](https://judge.beecrowd.com/en/problems/view/2139)~~ | ~~[2139.c](src/C/2139.c)~~ |
+| [2139 - Pedrinho's Christmas](https://judge.beecrowd.com/en/problems/view/2139) | [2139.c](src/C/2139.c) |
 | [2450 - Matrix Ladder](https://judge.beecrowd.com/en/problems/view/2450) | [Issue](https://github.com/otavio-f/beecrowd-answers/issues/2) |
 | [2699 - Enigma](https://judge.beecrowd.com/en/problems/view/2699) | [Issue](https://github.com/otavio-f/beecrowd-answers/issues/2) |
-| ~~[2729 - Shopping List](https://judge.beecrowd.com/en/problems/view/2729)~~ | ~~[2729.c](src/C/2729.c)~~ |
+| [2729 - Shopping List](https://judge.beecrowd.com/en/problems/view/2729) | [2729.c](src/C/2729.c) |
 | [2786 - School Floor](https://judge.beecrowd.com/en/problems/view/2786) | [Issue](https://github.com/otavio-f/beecrowd-answers/issues/2) |
-| ~~[2787 - Chess](https://judge.beecrowd.com/en/problems/view/2787)~~ | ~~[2787.c](src/C/2787.c)~~ |
+| [2787 - Chess](https://judge.beecrowd.com/en/problems/view/2787) | [2787.c](src/C/2787.c) |
 | [2805 - Binarizing the Matrix](https://judge.beecrowd.com/en/problems/view/2786) | [Issue](https://github.com/otavio-f/beecrowd-answers/issues/2) |
 | [2848 - Rangel and the Array Game I](https://judge.beecrowd.com/en/problems/view/2848) | [Issue](https://github.com/otavio-f/beecrowd-answers/issues/2) |
 | [3139 - Seeking New Followers](https://judge.beecrowd.com/en/problems/view/3139) | [Issue](https://github.com/otavio-f/beecrowd-answers/issues/2) |
