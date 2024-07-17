@@ -95,6 +95,7 @@ Problems solved
 | [1142 - PUM](https://judge.beecrowd.com/en/problems/view/1142) | [1142.c](src/C/1142.c) |
 | [1143 - Squared and Cubic](https://judge.beecrowd.com/en/problems/view/1143) | [1143.c](src/C/1143.c) |
 | [1144 - Logical Sequence](https://judge.beecrowd.com/en/problems/view/1144) | [1144.c](src/C/1144.c) |
+| [1149 - Summing Consecutive Integers](https://judge.beecrowd.com/en/problems/view/1149) | [1149.c](src/C/1149.c) |
 | [1154 - Ages](https://judge.beecrowd.com/en/problems/view/1154) | [1154.c](src/C/1154.c) |
 | [1160 - Population Increase](https://judge.beecrowd.com/en/problems/view/1160) | [1160.c](src/C/1160.c) |
 | [1164 - Perfect Number](https://judge.beecrowd.com/en/problems/view/1164) | [1164.c](src/C/1164.c) |
