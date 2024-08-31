@@ -20,9 +20,9 @@ Problems solved
 | [1001 - Extremely Basic](https://judge.beecrowd.com/en/problems/view/1001) | [1001.c](src/C/1001.c) | [1001.js](src/JS/1001.js) |
 | [1002 - Area of a Circle](https://judge.beecrowd.com/en/problems/view/1002) | [1002.c](src/C/1002.c) | [1002.js](src/JS/1002.js) |
 | [1003 - Simple Sum](https://judge.beecrowd.com/en/problems/view/1003) | [1003.c](src/C/1003.c) | [1003.js](src/JS/1003.js) |
-| [1004 - Simple Product](https://judge.beecrowd.com/en/problems/view/1004) | [1004.c](src/C/1004.c) |
-| [1005 - Average 1](https://judge.beecrowd.com/en/problems/view/1005) | [1005.c](src/C/1005.c) |
-| [1006 - Average 2](https://judge.beecrowd.com/en/problems/view/1006) | [1006.c](src/C/1006.c) |
+| [1004 - Simple Product](https://judge.beecrowd.com/en/problems/view/1004) | [1004.c](src/C/1004.c) | [1004.js](src/JS/1004.js) |
+| [1005 - Average 1](https://judge.beecrowd.com/en/problems/view/1005) | [1005.c](src/C/1005.c) | [1005.js](src/JS/1005.js) |
+| [1006 - Average 2](https://judge.beecrowd.com/en/problems/view/1006) | [1006.c](src/C/1006.c) | [1006.js](src/JS/1006.js) |
 | [1007 - Difference](https://judge.beecrowd.com/en/problems/view/1007) | [1007.c](src/C/1007.c) |
 | [1008 - Salary](https://judge.beecrowd.com/en/problems/view/1008) | [1008.c](src/C/1008.c) |
 | [1009 - Difference](https://judge.beecrowd.com/en/problems/view/1009) | [1009.c](src/C/1009.c) |
