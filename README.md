@@ -18,7 +18,7 @@ Problems solved
 | ------- | ------ | ------ |
 | [1000 - Hello World!](https://judge.beecrowd.com/en/problems/view/1000) | [1000.c](src/C/1000.c) | [1000.js](src/JS/1000.js) |
 | [1001 - Extremely Basic](https://judge.beecrowd.com/en/problems/view/1001) | [1001.c](src/C/1001.c) | [1001.js](src/JS/1001.js) |
-| [1002 - Area of a Circle](https://judge.beecrowd.com/en/problems/view/1002) | [1002.c](src/C/1002.c) |
+| [1002 - Area of a Circle](https://judge.beecrowd.com/en/problems/view/1002) | [1002.c](src/C/1002.c) | [1002.js](src/JS/1002.js) |
 | [1003 - Simple Sum](https://judge.beecrowd.com/en/problems/view/1003) | [1003.c](src/C/1003.c) |
 | [1004 - Simple Product](https://judge.beecrowd.com/en/problems/view/1004) | [1004.c](src/C/1004.c) |
 | [1005 - Average 1](https://judge.beecrowd.com/en/problems/view/1005) | [1005.c](src/C/1005.c) |
