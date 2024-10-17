@@ -14,8 +14,8 @@ In addition, all solutions were tested locally using the following flags:
 `-Wall -Werror -std=c99 -O2 -lm`
 
 Problems solved
-| Problem | C Source | JS Source |
-| ------- | ------ | ------ |
+| Problem | C Source | JS Source | Java Source |
+| ------- | ------ | ------ | ------ |
 | [1000 - Hello World!](https://judge.beecrowd.com/en/problems/view/1000) | [1000.c](src/C/1000.c) | [1000.js](src/JS/1000.js) |
 | [1001 - Extremely Basic](https://judge.beecrowd.com/en/problems/view/1001) | [1001.c](src/C/1001.c) | [1001.js](src/JS/1001.js) |
 | [1002 - Area of a Circle](https://judge.beecrowd.com/en/problems/view/1002) | [1002.c](src/C/1002.c) | [1002.js](src/JS/1002.js) |
@@ -63,7 +63,7 @@ Problems solved
 | [1065 - Even Between five Numbers](https://judge.beecrowd.com/en/problems/view/1065) | [1065.c](src/C/1065.c) |
 | [1066 - Even, Odd, Positive and Negative](https://judge.beecrowd.com/en/problems/view/1066) | [1066.c](src/C/1066.c) |
 | [1067 - Odd Numbers](https://judge.beecrowd.com/en/problems/view/1067) | [1067.c](src/C/1067.c) |
-| [1068 - Parenthesis Balance I](https://judge.beecrowd.com/en/problems/view/1068) | [1068.c](src/C/1068.c) |
+| [1068 - Parenthesis Balance I](https://judge.beecrowd.com/en/problems/view/1068) | [1068.c](src/C/1068.c) | | [1068.java](src/Java/1068.java)
 | [1069 - Diamonds and Sand](https://judge.beecrowd.com/en/problems/view/1069) | [1069.c](src/C/1069.c) |
 | [1070 - Six Odd Numbers](https://judge.beecrowd.com/en/problems/view/1070) | [1070.c](src/C/1070.c) |
 | [1071 - Sum of Consecutive Odd Numbers I](https://judge.beecrowd.com/en/problems/view/1071) | [1071.c](src/C/1071.c) |
